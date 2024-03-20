@@ -5,3 +5,4 @@
 int[] data = [1, 2, 4, 6, 2, 7, 8, 2, 354, 11, 35];
 
 Console.WriteLine($"Średnia z danych: {Pjatk.Apbd.Exercise.Average(data):N}");
+Console.WriteLine($"Maksymalna z danych: {Pjatk.Apbd.Exercise.Max(data)}");
