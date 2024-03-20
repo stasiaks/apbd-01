@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Czy będzie problemem jeśli pod przyszłe zadania zapomnę zmienić maila na commitach na uczelniany? Nie chcę zmieniać globalnych ustawień");
